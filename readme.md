@@ -2,9 +2,9 @@
 
 ## What is Dentinho?
 
-Dentinho is a tipical Madeiras's dish that comes along with a drink that you ask on a Bar.
+Dentinho is a tipical Madeiras's free dish that comes along with a drink that you ask on a Bar.
 This is a tipical Maderia's tradition, and eaxch Bar will have a diferent Dentinho.
-On our website you will be able to clasify each Dentinho (as a user/ client), and add new Dentinhos, edit and delete(as a Bar owner)
+On our website you will be able to classify each Dentinho (as a user/ client), and add new Dentinhos, edit and delete(as a Bar owner)
 
 ## What will be on our site?
 
